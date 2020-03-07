@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaLiteDb", "AulaLiteDb\AulaLiteDb.csproj", "{DB1F0C24-095B-4E29-B7CD-94BDE54AA3DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB1F0C24-095B-4E29-B7CD-94BDE54AA3DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1F0C24-095B-4E29-B7CD-94BDE54AA3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1F0C24-095B-4E29-B7CD-94BDE54AA3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1F0C24-095B-4E29-B7CD-94BDE54AA3DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89A61E58-2C3A-4235-8A62-E272990DF336}
+	EndGlobalSection
+EndGlobal

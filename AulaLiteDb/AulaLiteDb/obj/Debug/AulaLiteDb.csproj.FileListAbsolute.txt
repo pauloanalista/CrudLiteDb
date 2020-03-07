@@ -1,0 +1,13 @@
+C:\Users\paulo_jku944h\Downloads\AulaLiteDb\AulaLiteDb\bin\Debug\AulaLiteDb.exe.config
+C:\Users\paulo_jku944h\Downloads\AulaLiteDb\AulaLiteDb\bin\Debug\AulaLiteDb.exe
+C:\Users\paulo_jku944h\Downloads\AulaLiteDb\AulaLiteDb\bin\Debug\AulaLiteDb.pdb
+C:\Users\paulo_jku944h\Downloads\AulaLiteDb\AulaLiteDb\bin\Debug\LiteDB.dll
+C:\Users\paulo_jku944h\Downloads\AulaLiteDb\AulaLiteDb\bin\Debug\LiteDB.xml
+C:\Users\paulo_jku944h\Downloads\AulaLiteDb\AulaLiteDb\obj\Debug\AulaLiteDb.csprojAssemblyReference.cache
+C:\Users\paulo_jku944h\Downloads\AulaLiteDb\AulaLiteDb\obj\Debug\AulaLiteDb.Form1.resources
+C:\Users\paulo_jku944h\Downloads\AulaLiteDb\AulaLiteDb\obj\Debug\AulaLiteDb.Properties.Resources.resources
+C:\Users\paulo_jku944h\Downloads\AulaLiteDb\AulaLiteDb\obj\Debug\AulaLiteDb.csproj.GenerateResource.cache
+C:\Users\paulo_jku944h\Downloads\AulaLiteDb\AulaLiteDb\obj\Debug\AulaLiteDb.csproj.CoreCompileInputs.cache
+C:\Users\paulo_jku944h\Downloads\AulaLiteDb\AulaLiteDb\obj\Debug\AulaLiteDb.csproj.CopyComplete
+C:\Users\paulo_jku944h\Downloads\AulaLiteDb\AulaLiteDb\obj\Debug\AulaLiteDb.exe
+C:\Users\paulo_jku944h\Downloads\AulaLiteDb\AulaLiteDb\obj\Debug\AulaLiteDb.pdb
