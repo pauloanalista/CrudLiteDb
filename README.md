@@ -2,7 +2,7 @@
 Crud em C# com LiteDb utilizado no canal Ilovecode
 
 
-# VEJA TAMBÉM
+# Veja também
 ## Cursos baratos!
 - [Meus cursos](https://olha.la/udemy)
 
